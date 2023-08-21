@@ -71,6 +71,7 @@ button {
     font-size: 19px;
     cursor: pointer;
     border-radius: 40px;
+    width: auto;
 
 }
 
