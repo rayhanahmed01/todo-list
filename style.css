@@ -60,6 +60,8 @@ input {
     background: transparent;
     padding: 10px;
     width: 100%;
+    height: auto;
+
 }
 
 button {
@@ -72,6 +74,7 @@ button {
     cursor: pointer;
     border-radius: 40px;
     width: auto;
+    height: auto;
 
 }
 
