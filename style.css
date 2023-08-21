@@ -48,6 +48,7 @@
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
+    width: 100%;
 }
 input{
     flex: 1;
@@ -113,3 +114,5 @@ ul li span{
 ul li span:hover{
     background-color: #edeef0;
 }
+
+
